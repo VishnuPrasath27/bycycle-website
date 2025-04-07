@@ -1,0 +1,33 @@
+body{
+    background-image: url(cool-bicycle-outdoors.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.container{
+    text-align: center;
+    /* background-color: #5b8cc91c; */
+    margin: 85px 400px;
+    padding: 20px 20px;
+    border-radius: 20px;
+}
+
+.head{
+    color: #0f52ba;
+    text-shadow: 1.5px 1.5px #ff6b35;
+}
+
+.detail{
+    margin: 10px 10px;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+#button{
+    margin: 10px 10px;
+    padding: 10px 10px;
+    background-color: #ff6b35;
+    color: white;
+    border-radius: 10px;
+}
