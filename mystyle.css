@@ -80,12 +80,10 @@ hr {
 .homeimage1 {
     display: flex;
     justify-content: center;
-    /* align-items: center; */
     padding: 20px;
     height: auto;
     margin: auto;
     width: 700px;
-    /* float: left; */
 }
 
 /* .image2 {
@@ -174,9 +172,7 @@ footer {
     border-top: 1px solid #333;
     padding: 15px;
     margin-top: 20px;
-    font-size: 14px;
-    /* color: #aaaaaa; */
-    
+    font-size: 14px;    
   }
 
 
